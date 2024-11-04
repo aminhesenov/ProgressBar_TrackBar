@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProgressBar_KeyEvents_Sound/1.0.0": {
+        "runtime": {
+          "ProgressBar_KeyEvents_Sound.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgressBar_KeyEvents_Sound/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

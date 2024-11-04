@@ -1,0 +1,16 @@
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\bin\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.exe
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\bin\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.deps.json
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\bin\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.runtimeconfig.json
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\bin\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.dll
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\bin\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.pdb
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.Form1.resources
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.csproj.GenerateResource.cache
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.AssemblyInfoInputs.cache
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.AssemblyInfo.cs
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.csproj.CoreCompileInputs.cache
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.dll
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\refint\ProgressBar_KeyEvents_Sound.dll
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.pdb
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ProgressBar_KeyEvents_Sound.genruntimeconfig.cache
+D:\C# dersleri\ProgressBar_KeyEvents_Sound\ProgressBar_KeyEvents_Sound\obj\Debug\net8.0-windows\ref\ProgressBar_KeyEvents_Sound.dll
